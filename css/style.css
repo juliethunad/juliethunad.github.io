@@ -1,0 +1,178 @@
+/*font-family: 'Franklin Gothic Heavy', arial;*/
+	
+
+#contenidos{
+
+	width:1000px;
+	height:auto;
+	margin:auto;
+	position:relative;
+	
+}
+/*ETIQUETAS*/
+body{
+background-image: url(../img/fondo.png);
+background-repeat:no-repeat;
+background-size:cover;
+}
+
+h1{
+font-family: 'Franklin Gothic Heavy', cursive;
+color:white;	
+max-width: 700px;
+margin-left:30px;
+font-size:40px;
+text-align: left;
+
+}
+
+h2{
+font-family: 'Franklin Gothic Heavy', cursive;
+color:black;
+margin-left:10px;
+font-size:30px;
+text-align: left;
+}
+
+h3{
+font-family: 'fuenteunad', cursive;
+color:black;
+font-size:30px;
+text-align:center;
+}
+
+figure{
+font-family: 'Franklin Gothic Heavy', cursive;
+color:rgb(0,102,128);
+margin-left:20px;
+font-size:20px;
+text-align: left;
+max-width: 700px;
+
+}
+
+header{
+	width: 1000px;
+	height: 260px;
+	background-image: url(../img/Banner2.png);
+	/*rgba(255,255,255,0,5);*/
+
+}
+
+nav{
+width: 1000px;
+height:50px;
+background:white;
+border-radius:10px;
+font-size:20px;
+
+}
+
+ul{
+margin: auto;
+padding-top:4px;
+}
+
+li{
+	float: left;
+	list-style-type: none;
+	padding:5px;
+	background:rgb(242,184,13);
+	font-weight: bolder;
+	margin: 3px;
+	border-radius: 10px;
+	box-shadow: 0 0 10px white inset;
+}
+section{
+	width: 700px;
+	background:white;
+	height: 600px;
+	float: left;
+	margin-top: 20px;
+	border-radius: 10px;
+}
+aside{
+	width: 280px;
+	background:white;
+	height: 600px;
+	float:left;
+	margin-left:  20px;
+	margin-top: 20px;
+	border-radius: 10px;
+}
+footer{
+	width: 1000px;
+	height: 70px;
+	background:rgb(0,102,128);
+	float: left;
+	margin-top: 10px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+
+}
+
+p{
+	font-size: 27px;
+	font-weight: bolder;
+	line-height: 24px;
+	padding: 10px;
+	text-align: justify;
+}
+
+
+/*CLASES*/
+.ancho_menu_home{width: 900px;}
+.ancho_menu_paginas{width: 970px;}
+
+/*color:white;text-decoration:none;*/
+.menu:link{color:white; text-decoration: none;}
+.menu:visited{color:white; text-decoration:none;}
+.menu:hover{color:blue; text-decoration:none; text-shadow:0 0 15px white;}
+.menu:active{color:red; text-decoration:none;}
+
+/*SEUDO CLASES*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
