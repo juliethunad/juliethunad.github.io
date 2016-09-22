@@ -11,17 +11,17 @@
 }
 /*ETIQUETAS*/
 body{
-background-image: url(../img/fondo.png);
-background-repeat:no-repeat;
+background-image: url(../img/verde.jpeg);
+background-repeat:repeat;
 background-size:cover;
 }
 
 h1{
 font-family: 'Franklin Gothic Heavy', cursive;
-color:white;	
+color:black;
 max-width: 700px;
 margin-left:30px;
-font-size:40px;
+font-size:35px;
 text-align: left;
 
 }
@@ -53,8 +53,8 @@ max-width: 700px;
 
 header{
 	width: 1000px;
-	height: 260px;
-	background-image: url(../img/Banner2.png);
+	height: 200px;
+	background-image: url(../img/Banner.gif);
 	/*rgba(255,255,255,0,5);*/
 
 }
@@ -62,10 +62,10 @@ header{
 nav{
 width: 1000px;
 height:50px;
-background:white;
+background:LightGray;
 border-radius:10px;
 font-size:20px;
-
+margin-top: 20px;
 }
 
 ul{
@@ -85,7 +85,7 @@ li{
 }
 section{
 	width: 700px;
-	background:white;
+	background:LightGray;
 	height: 600px;
 	float: left;
 	margin-top: 20px;
@@ -93,7 +93,7 @@ section{
 }
 aside{
 	width: 280px;
-	background:white;
+	background:LightGray;
 	height: 600px;
 	float:left;
 	margin-left:  20px;
